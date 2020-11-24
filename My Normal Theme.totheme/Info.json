@@ -1,0 +1,15 @@
+{
+    "author": {
+        "name" : "Travis Plunk",
+        "email" : "travis@ez13.net",
+        "url" : "http://travis.ez13.net/"
+    },
+    "comments" : "example",
+    "rootDocument" : "index.html",
+    "type" : "html5",
+    "created" : "2020-11-24",
+    "identifier" : "MyNormalTheme",
+    "version" : 1,
+    "modified" : "2020-11-24",
+    "name" : "My Normal Themem"
+}
